@@ -17,9 +17,8 @@ Look of the page down below
   <img alt="issue" src="https://github.com/Josakko/InstagramPhishing/blob/main/img/img1.png?raw=true" width="1000px">
 </p>
 
-## Need Help?
 
-If you need help contact me on my [discord server](https://discord.gg/xgET5epJE6).
+
 
 ## Contributors
 
